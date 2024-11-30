@@ -137,6 +137,14 @@ export default function Footer() {
               </a>
             </div>
             <div className="mt-4 md:mt-0 text-sm text-gray-500">
+              <a 
+                href="/sitemap.xml"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:text-blue-700 mr-2"
+              >
+                Sitemap
+              </a>
               All rights reserved.
             </div>
           </div>
